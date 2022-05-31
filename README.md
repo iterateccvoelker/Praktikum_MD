@@ -65,6 +65,8 @@ Link 1: https://slamd-web.herokuapp.com/ (AI-Model not functional, reliable host
 
 Link 2: https://tinyurl.com/38h6xtm3 (fully functional, unreliable host)
 
+Link 3: https://tinyurl.com/c3v8kmj9 (fully functional, unreliable host)
+
 The second link may take longer to load or loose connection after some time. Simply refresh the web page in the browser to retry.
 
 

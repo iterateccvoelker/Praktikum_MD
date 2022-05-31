@@ -64,6 +64,4 @@ To start SLAMD, follow one of these links:
 Link 1: https://slamdbam.herokuapp.com 
 Link 2: https://bamslamd.herokuapp.com 
 
-The second link may take longer to load or loose connection after some time. Simply refresh the web page in the browser to retry.
-
 ## TO UPLOAD THE "MD_Example.csv" FILE YOU MUST CHANGE THE DELIMETER SETTINGS!!! Choose: Separator: ";" & Decimal delim: ","

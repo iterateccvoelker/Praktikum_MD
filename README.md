@@ -41,7 +41,7 @@ superplasticizer type & -/binder ratio: Naphthalene-based at 4 wt.%
 11. f,c(28d) (MPa) 		            Target 28 day compressive strength
 12. CO2 emissions (kg/m3)	        A-priori carbon footprint
 
-Optimization
+## Optimization targets
 
 1. Single-objective
 Target = high strength			

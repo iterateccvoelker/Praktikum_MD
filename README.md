@@ -57,6 +57,14 @@ Target = high strength & climate friendly
 		𝐶𝑂2  < 150𝑘𝑔/𝑚3		(95% 𝑞𝑢𝑎𝑛𝑡𝑖𝑙𝑒 −> 9/192) 
 ##### Budget: 4 iterations
 
+## Start SLAMD
 
+To start SLAMD, follow one of these links:
+
+Link 1: https://slamd-web.herokuapp.com/ (AI-Model not functional, reliable host)
+
+Link 2: https://tinyurl.com/38h6xtm3 (fully functional, unreliable host)
+
+The second link may take longer to load or loose connection after some time. Simply refresh the web page in the browser to retry.
 
 

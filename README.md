@@ -1,6 +1,6 @@
 # Praktikum MD
 
-This repository contains the data for the Materials Discovery hands on session "VL und Ü - TU Berlin, Einsatz von KI zur Materialentwicklung im Bauwesen"
+This repository contains the data for the hands-on Materials Discovery part of the lecture  "VL und Ü - TU Berlin, Datengesteuerte Entdeckung nachhaltiger Baustoffe"
 
 The data has been extracted from the following reference: 
 

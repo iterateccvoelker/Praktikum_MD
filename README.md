@@ -1,5 +1,4 @@
 # Praktikum MD
-
 This repository contains the data for the hands-on Materials Discovery part of the lecture  "VL und Ü - TU Berlin, Datengesteuerte Entdeckung nachhaltiger Baustoffe"
 
 The data has been extracted from the following reference: 
@@ -8,6 +7,13 @@ G. Mallikarjuna Rao & T. D. Gunneswara Rao (2018): A quantitative method of appr
 
 ## Research question
 This data set stems from a systematic lab study for selecting mix proportions for fly ash and GGBS- based geopolymer concrete. Very little information is available on complete methodology in designing the fly ash and GGBS-based geopolymer mix. The fly ash and GGBS were activated using sodium silicate and sodium hydroxide as alkaline activator solution. The Na2SiO3/NaOH (alkaline activator) ratio was taken as 2.5 and the concentration of NaOH solution was maintained at 8 M. The main parameters considered in this study were binder content and alkaline solution/ binder ratio for various combinations of fly ash and GGBS. The variables considered in this experimentation include: binder content (360, 420 and 450 kg/m3), proportions of fly ash and GGBS (70–30, 60–40 and 50–50), alkaline solution/binder ratios (0.45, 0.50, 0.55 and 0.60) and curing condition (outdoor curing and oven curing). Results concluded that the GGBS content, alkaline solution/binder ratio and curing condition are found to be most influential parameters on compressive strength and workability of geopolymer concrete. The work presents detailed examples of mix designs for various strengths.
+
+## Your task:
+You get 192 geopolymer recipes (digital materials), of which only 10 (randomly selected) materials have been validated in the lab. 
+The goal is to discover materials with high compressive strength in the upper 5%. Use a data-driven approach to select the next promising material for validation. Your lab budget is 4 validations! 
+
+The person with the highest average performance wins. <img width="870" alt="Bildschirmfoto 2022-06-02 um 13 47 23" src="https://user-images.githubusercontent.com/71640597/171622654-0f8586c4-6afa-4a3b-b9c6-3e0f6d139cc1.png">
+
 
 ### Overview of the parameters investigated
 Binder content: 360, 420, 450

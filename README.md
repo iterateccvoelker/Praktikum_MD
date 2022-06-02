@@ -10,7 +10,7 @@ This data set stems from a systematic lab study for selecting mix proportions fo
 
 ## Your task:
 You get 192 geopolymer recipes (digital materials), of which only 10 (randomly selected) materials have been validated in the lab. 
-The goal is to discover materials with high compressive strength in the upper 5%. Use a data-driven approach to select the next promising material for validation. Your lab budget is 4 validations! 
+The goal is to discover materials with high compressive strength in the upper 5% quantile (top 9 out of 192 materials). Use a data-driven approach to select the next promising material for validation. Your lab budget is 4 validations! 
 
 The person with the highest average performance wins. <img width="870" alt="Bildschirmfoto 2022-06-02 um 13 47 23" src="https://user-images.githubusercontent.com/71640597/171622654-0f8586c4-6afa-4a3b-b9c6-3e0f6d139cc1.png">
 

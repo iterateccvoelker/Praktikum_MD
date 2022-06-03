@@ -34,20 +34,20 @@ superplasticizer type & -/binder ratio: Naphthalene-based at 4 wt.%
 
 192 Digital materials, 10 validated in the lab (training data)
 
-### #.  Name			                    Description
-0.  Idx_Sample & Mixture Code 	  Index and name of mixture 
-1.  FA (kg/m3)		                Fly ash content
-2.  GGBFS (kg/m3)		              Slag content
-3.  Total powder (kg/m3)	        Weight of powder
-4.  Coarse aggregate (kg/m3)	    Weight of coarse aggregate 
-5.  Fine aggregate (kg/m3)	      Weight of fine aggregate 
-6.  Total aggregates (kg)	        Total weight of aggregates 
-7.  NaOH (kg)		                  Weight of sodium hydroxide
-8.  Water-eff (kg)		            Weight of water
-9.  Weight mixture (kg)	          Total weight of mixture
-10. Initial curing temp (C)	      Curing temerature	
-11. f,c(28d) (MPa) 		            Target 28 day compressive strength
-12. CO2 emissions (kg/m3)	        A-priori carbon footprint
+### #.  Name			-                    Description
+0.  Idx_Sample & Mixture Code 	-  Index and name of mixture 
+1.  FA (kg/m3)		       -         Fly ash content
+2.  GGBFS (kg/m3)		-              Slag content
+3.  Total powder (kg/m3)	-        Weight of powder
+4.  Coarse aggregate (kg/m3)	-    Weight of coarse aggregate 
+5.  Fine aggregate (kg/m3)	-      Weight of fine aggregate 
+6.  Total aggregates (kg)	 -       Total weight of aggregates 
+7.  NaOH (kg)		          -        Weight of sodium hydroxide
+8.  Water-eff (kg)		-            Weight of water
+9.  Weight mixture (kg)	       -   Total weight of mixture
+10. Initial curing temp (C)	-      Curing temerature	
+11. f,c(28d) (MPa) 		-            Target 28 day compressive strength
+12. CO2 emissions (kg/m3)	-        A-priori carbon footprint
 
 ## Optimization targets
 

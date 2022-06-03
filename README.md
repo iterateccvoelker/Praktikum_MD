@@ -53,14 +53,14 @@ superplasticizer type & -/binder ratio: Naphthalene-based at 4 wt.%
 
 #### 1. Single-objective
 Target = high strength			
- 	𝑓𝑐(28𝑑) > 60,2 𝑀𝑃𝑎 		 (95% 𝑞𝑢𝑎𝑛𝑡𝑖𝑙𝑒 −> 9/192) 
+ 	𝑓𝑐(28𝑑) > 60,2 𝑀𝑃𝑎 -		 (95% 𝑞𝑢𝑎𝑛𝑡𝑖𝑙𝑒 −> 9/192) 
 ##### Budget: 4 iterations
 
 
 #### 2. Multi-objective 
 Target = high strength & climate friendly 	
-	𝑓𝑐(28𝑑) > 55 𝑀𝑃𝑎
-		𝐶𝑂2  < 150𝑘𝑔/𝑚3		(95% 𝑞𝑢𝑎𝑛𝑡𝑖𝑙𝑒 −> 9/192) 
+	𝑓𝑐(28𝑑) > 55 𝑀𝑃𝑎 &
+		𝐶𝑂2  < 150𝑘𝑔/𝑚3	-	(95% 𝑞𝑢𝑎𝑛𝑡𝑖𝑙𝑒 −> 9/192) 
 ##### Budget: 4 iterations
 
 ## Start SLAMD

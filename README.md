@@ -51,20 +51,31 @@ Target = high strength & climate friendly
 11. f,c(28d) (MPa) 		-            Target 28 day compressive strength
 12. CO2 emissions (kg/m3)	-        A-priori carbon footprint
 
-### Overview of the parameters investigated
+### Overview of the investigated formulation parameters 
 Binder content: 360, 420, 450
+
 Fly-ash/GGBFS ratio: 70-30, 60-40, 50-50
+
 Alkaline solution/binder ratio: 0.45, 0.5, 0.55, 0.6
+
 Curing: ambient/oven
+
 Fine/coarse aggregate: 774/1091, 811/966, 761/972
+
 -> impact on strength 
 
 ### Fixed parameteres
+
 Na2SiO3/NaOH ratio: 2.5 
+
 NaOH: 8 Mol
+
 Aggregates specific gravity
-fineness modulus, Curing time 
+
+fineness modulus, Curing time
+
 superplasticizer type & -/binder ratio: Naphthalene-based at 4 wt.%
+
 
 ## Start SLAMD
 

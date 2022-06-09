@@ -92,7 +92,8 @@ If nothing happens after you clicked on "Make prediction" in the "Materials Disc
 
 - only numerical input data is selected, i.e. the name of the mixture "Mixture Code in Ref" must NOT be selected
 - only the compressive strength "f,c(28d) (MPa) - MD1 Target" is selected as target.
-- To add data, either open the "MD_Example.csv" file with Excel and save it again in CSV format or simply open the file with a text editor app and add the result manually. Make sure you use the German decimal separator: ","
+
+To add data in each iteration (compare "Data driven materials design workflow" above), either open the "MD_Example.csv" file with Excel and save it again in CSV format or simply open the file with a text editor app and add the result manually. Make sure you use the German decimal separator: ","
 
 If you are unsure what settings should be made, consult the "Hands-on" section in the script for further advice. 
 

@@ -86,7 +86,7 @@ Link 2: https://bamslamd.herokuapp.com
 
 ## Homework
 
-Your task is to perform a material discovery according to slides 54 to 59 of the lecture notes. The required resources can be found on slide 55. . Please refer to the "MD_Example_solutions.xlsx" file for validation in the lab as per slide 56. Select ONE optimization objective from on slide 59. Describe your approach and justify your design decisions according to the workflow on slides 60 to 65 in a short report. The outline should follow this structure:
+Your task is to perform a material discovery according to slides 54 to 59 of the lecture notes. The required resources can be found on slide 55. Please refer to the "MD_Example_solutions.xlsx" file for validation in the lab as per slide 56. Select ONE optimization objective from on slide 59. Describe your approach and describe the reason for your design decisions according to the workflow on slides 60 to 65 in a short report. The outline should follow this structure:
 
 1. brief description of the optimization objective and input data.
 2. selected input data (short rationale).

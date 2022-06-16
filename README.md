@@ -84,18 +84,34 @@ To start SLAMD, follow one of these links:
 Link 1: https://slamdbam.herokuapp.com 
 Link 2: https://bamslamd.herokuapp.com 
 
+## Homework
+
+Your task is to perform a material discovery according to slides 54 to 59 of the lecture notes. The required resources can be found on slide 55. . Please refer to the "MD_Example_solutions.xlsx" file for validation in the lab as per slide 56. Select ONE optimization objective from on slide 59. Describe your approach and justify your design decisions according to the workflow on slides 60 to 65 in a short report. The outline should follow this structure:
+
+1. brief description of the optimization objective and input data.
+2. selected input data (short rationale).
+3. model selection (short rationale).
+4. selected strategy (exploit vs. explore and exploit).
+5. evaluation of the prediction and selection of the next candidate.
+
+Repeat steps 3 to 5 at least twice if optimization is successful and a maximum of four times otherwise. 
+
+6. summary of results and comparison with initial situation. 
+
+Please make sure that your settings are well documented. 
+
 ## Troubleshooting:
 
-TO UPLOAD THE "MD_Example.csv" FILE YOU MUST CHANGE THE DELIMETER SETTINGS!!! Choose: Separator: ";" & Decimal delim: ","
+If the app is not available, please write a short email to Christoph.Voelker@bam.de. 
 
-If nothing happens after you clicked on "Make prediction" in the "Materials Discovery" window make sure:
+To upload the "MD_Example.csv" file, YOU MUST CHANGE THE DELIMETER SETTINGS!!! Select: Separator: ";" & Decimal Separator: ","
 
-- only numerical input data is selected, i.e. the name of the mixture "Mixture Code in Ref" must NOT be selected
+If nothing happens after you click on "Make prediction" in the Materials Discovery window, make sure:
+
+- that only numerical input data is selected, i.e. the name of the mixture "Mixture Code in Ref" must NOT be selected
 - only the compressive strength "f,c(28d) (MPa) - MD1 Target" is selected as target.
 
-To add data in each iteration (compare "Data driven materials design workflow" above), either open the "MD_Example.csv" file with Excel and save it again in CSV format or simply open the file with a text editor app and add the result manually. Make sure you use the German decimal separator: ","
+To add the data in each iteration (see "Data-driven material design workflow" on slide 56), either open the "MD_Example.csv" file with Excel and save it again in CSV format, or simply open the file with a text editor and manually add the result to the end of the associated line. Make sure that you use the German decimal separator: ",".
 
-If you are unsure what settings should be made, consult the "Hands-on" section in the script for further advice. 
-
-
+If you are not sure what settings should be made, see the "Hands-on" section of the script for further instructions.
 

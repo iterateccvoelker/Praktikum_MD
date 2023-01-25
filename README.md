@@ -16,6 +16,7 @@ Link: https://slamd-demo.herokuapp.com
 Content:
 
 SessionExample.json <- a SLAMD session file that contains some of the materials you require to create the geopolymer based concrete formulation
+
 SessionComplete.json <- a SLAMD session file that contains the complete list of materials and materials blends that are required to create the geopolymer based concrete formulation
 
 DiscoveryData_Sample.csv <- a materials data search space 

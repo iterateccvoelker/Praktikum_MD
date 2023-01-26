@@ -11,9 +11,9 @@ This data set stems from a systematic lab study for selecting mix proportions fo
 Please use SLAMD to create the formulations according to the lecture script.
 
 Link: https://slamd-demo.herokuapp.com
-### 
 
-Content:
+
+## Content:
 
 SessionExample.json <- a SLAMD session file that contains some of the materials you require to create the geopolymer based concrete formulation
 
